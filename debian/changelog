@@ -1,3 +1,9 @@
+osinfo-db-tools (1.1.0-1digitalocean) UNRELEASED; urgency=medium
+
+  * Rebuild for Trusty
+
+ -- Andrew James <ajames@digitalocean.com>  Wed, 07 Aug 2019 16:53:47 -0600
+
 osinfo-db-tools (1.1.0-1) unstable; urgency=medium
 
   * Upload to unstable

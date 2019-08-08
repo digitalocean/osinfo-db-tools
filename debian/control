@@ -5,6 +5,7 @@ Maintainer: Guido Günther <agx@sigxcpu.org>
 Build-Depends:
  autotools-dev,
  debhelper (>= 9),
+ dh-autoreconf,
  intltool,
  libarchive-dev,
  libglib2.0-dev,
